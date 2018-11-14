@@ -25,8 +25,10 @@ brew install markdown
 brew install cloc
 brew install coreutils
 brew install awscli
+brew install ag
 
 brew install jsonlint
+brew install rlwrap
 
 # using gnu tar
 brew install gnu-tar
